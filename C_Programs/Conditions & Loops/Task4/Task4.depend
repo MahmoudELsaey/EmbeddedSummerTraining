@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669898182 source:d:\cat tasks\task weak 2\task4\main.c
+	<stdio.h>
+	<stdlib.h>
+
